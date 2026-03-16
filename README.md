@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![Web3](https://img.shields.io/badge/Web3-Crypto-green)
+![AI](https://img.shields.io/badge/AI-Agent-orange)
 # Hi there 👋
 
 I'm an AI and crypto enthusiast exploring how artificial intelligence can improve the Web3 ecosystem.
