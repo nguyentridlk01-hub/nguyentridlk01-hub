@@ -1,6 +1,5 @@
-![Python](https://img.shields.io/badge/Python-AI-blue)
-![Web3](https://img.shields.io/badge/Web3-Crypto-green)
-![AI](https://img.shields.io/badge/AI-Agent-orange)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,25:333333,50:ffd500,75:ffaa00,100:ffdd55&height=220&section=header&text=Nguyen%20Tri%20%7C%20Crypto%20AI%20Builder⚡&fontSize=45&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Building%20AI%20Tools%20for%20Crypto%20Trading&descAlign=50&descAlignY=55&fontColor=ffffff)
+
 # Hi there 👋
 
 I'm an AI and crypto enthusiast exploring how artificial intelligence can improve the Web3 ecosystem.
